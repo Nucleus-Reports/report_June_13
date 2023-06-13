@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Tue Jun 13 12:51:10 UTC 2023","Tue Jun 13 12:51:34 UTC 2023","24424","","15. Test 2 Factor Login is working","","","","Get SMS and apply it in 2FA form",""
+"failed","Tue Jun 13 13:13:23 UTC 2023","Tue Jun 13 13:13:47 UTC 2023","23962","","15. Test 2 Factor Login is working","","","","Get SMS and apply it in 2FA form",""
