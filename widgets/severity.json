@@ -1,1 +1,1 @@
-[{"uid":"2506f4b2fb12af7b","name":"Get SMS and apply it in 2FA form","time":{"start":1686658396384,"stop":1686658420588,"duration":24204},"status":"failed","severity":"normal"}]
+[{"uid":"50d29ace3a1ad06d","name":"Get SMS and apply it in 2FA form","time":{"start":1686659822973,"stop":1686659988431,"duration":165458},"status":"broken","severity":"normal"}]
